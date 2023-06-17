@@ -6,12 +6,13 @@
     margin-bottom: 10px;
 }
 header {
-    margin-left: 300px;
+    margin-top: 20px;
+
 }
 .fondo {
     background-image: url("../img/fondopag.png");
-    margin-left: 90px;
-    margin-right: 90px;
+   /* margin-left: 90px;
+    margin-right: 90px;*/
 }
 .menu {
     font-family: 'Sora', sans-serif;
