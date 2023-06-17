@@ -1,0 +1,165 @@
+* {
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+header {
+    margin-left: 300px;
+}
+.fondo {
+    background-image: url("../img/fondopag.png");
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.menu {
+    font-family: 'Sora', sans-serif;
+    font-weight: 800;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+section div ul li a{
+    margin-left: 220px;
+}
+main nav {
+    font-family: 'Sora', sans-serif;
+    font-weight: 900; 
+    position: relative;
+    bottom: 100px;
+    left: 200px;
+}
+main {
+    background-color: white;
+    margin-bottom: 25px;
+}
+main nav, main div {
+    display: inline-block;
+    width: 400px;
+}
+main div img {
+    position: relative;
+    top: 15px;
+    left: 320px;
+}
+nav div {
+    margin-left: 65px;
+}
+.navimg {
+
+    margin: 10px 10px 10px 10px;
+}
+body nav iframe{
+    margin-left: 300px;
+}
+.pedidowa {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+footer {
+    background-color: white;
+    padding: 20px;
+    font-family: 'Sora', sans-serif;
+    font-weight: bold; 
+}
+footer div img, footer div p {
+    display: inline-block;
+}
+footer nav, footer div {
+    display: inline-block;
+}
+footer nav {
+    position: relative;
+    left: 100px;
+    bottom: 10px;
+}
+footer div img {
+    position: relative;
+    left: 300px;
+    top: 7px;
+}
+footer div p {
+    position: relative;
+    left: 290px;
+    bottom: 48px;
+}
+.ordcart {
+    background-color: rgb(205, 250, 235);
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: 'Sora', sans-serif;
+    font-weight: 900;
+}
+.ordcartp1 {
+    position: relative;
+    top: 15px;
+    left: 200px;
+}
+.ordcartp2 {
+    position: relative;
+    bottom: 13px;
+    left: 300px;
+}
+.ordcarte1 {
+    position: relative;
+    left: 250px;
+    bottom: 100px;
+}
+.ordcarte2 {
+    position: relative;
+    left: 420px;
+    top: 13px;
+}
+.ordcarts1 {
+    position: relative;
+    bottom: 150px;
+    left: 300px;
+}
+.ordcartm2 {
+    position: relative;
+    left: 385px;
+    top: 13px;
+}
+.ordcartm1 {
+    position: relative;
+    left: 250px;
+    bottom: 50px;
+}
+section nav ul  {
+    display: inline-block;
+}
+.fondcont {
+    background-color: rgb(233, 233, 233);
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Sora', sans-serif;
+    font-weight: bold; 
+}
+.ordcont {
+    display: block;
+}
+body section nav img {
+    position: relative;
+    left: 60px;
+}
+body section nav h2 {
+    position: relative;
+    left: 350px;
+    bottom: 190px;
+}
+.ordimgsoc {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+}
+.titsoc {
+    padding: 5px;
+    background-color: rgb(233, 233, 233);
+    font-family: 'Sora', sans-serif;
+    font-weight: 500; 
+    text-align: center;
+}
