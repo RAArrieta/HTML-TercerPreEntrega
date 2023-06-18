@@ -21,109 +21,26 @@ header {
     background-color: white;
     margin-bottom: 10px;
 }
-/*section div ul li a{
-    margin-left: 220px;
-}
-main nav {
-    font-family: 'Sora', sans-serif;
-    font-weight: 900; 
-    position: relative;
-    bottom: 100px;
-    left: 200px;
-}
-main {
-    background-color: white;
-    margin-bottom: 25px;
-}
-main nav, main div {
-    display: inline-block;
-    width: 400px;
-}
-main div img {
-    position: relative;
-    top: 15px;
-    left: 320px;
-}
-nav div {
-    margin-left: 65px;
-}
-.navimg {
 
-    margin: 10px 10px 10px 10px;
+main section div {
+    background-color: rgb(231, 227, 227);
+    font-family: 'Sora', sans-serif;
+    font-size: 200%;
 }
-body nav iframe{
-    margin-left: 300px;
-}*/
+/*
 .pedidowa {
     position: fixed;
     bottom: 0;
     right: 0;
-}
+}*/
 footer {
     background-color: rgb(231, 227, 227);
     font-family: 'Sora', sans-serif;
     font-weight: bold; 
+    font-size: 120%;
 }
-.log_wa_f {
-    grid-area: logwa;
-}
-.nro_wa_f {
-    display: flex;
-    justify-items: end;
-    grid-area: nrowa;
-}
-.log_fac_f {
-    grid-area: logfac;
-}
-.nom_fac_f {
-    grid-area: nomfac;
-}
-.log_ins_f {
-    grid-area: logins;
-}
-.nom_ins_f {
-    grid-area: nomins;
-}
-.container-fluid {
-    padding-top: 20px;
-}
-.rrss_footer {
-    display: grid;
-    grid-template-columns: 20% 80%;
-    grid-template-rows: 30% 30% 30%;
-    grid-template-areas: 
-    "logwa nrowa"
-    "logfac nomfac"
-    "logins nomins";
-    
-    /*ustify-items: center;*/
-    align-items: center;
-    row-gap: 15px;
-}
-/*.container-fluid {
-    align-content: center;
-}*/
-/*footer div img, footer div p {
-    display: inline-block;
-}*/
-/*footer nav, footer div {
-    display: inline-block;
-}*/
-/*footer nav {
-    position: relative;
-    left: 100px;
-    bottom: 10px;
-}*/
-/*footer div img {
-    position: relative;
-    left: 300px;
-    top: 7px;
-}*/
-/*footer div p {
-    position: relative;
-    left: 290px;
-    bottom: 48px;
-}*/
+
+    /*
 .ordcart {
     background-color: rgb(205, 250, 235);
     margin-left: 150px;
@@ -201,4 +118,4 @@ body section nav h2 {
     font-family: 'Sora', sans-serif;
     font-weight: 500; 
     text-align: center;
-}
+}*/
