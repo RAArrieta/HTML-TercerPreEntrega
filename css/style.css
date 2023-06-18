@@ -21,7 +21,7 @@ header {
     background-color: white;
     margin-bottom: 10px;
 }
-section div ul li a{
+/*section div ul li a{
     margin-left: 220px;
 }
 main nav {
@@ -53,39 +53,77 @@ nav div {
 }
 body nav iframe{
     margin-left: 300px;
-}
+}*/
 .pedidowa {
     position: fixed;
     bottom: 0;
     right: 0;
 }
 footer {
-    background-color: white;
-    padding: 20px;
+    background-color: rgb(231, 227, 227);
     font-family: 'Sora', sans-serif;
     font-weight: bold; 
 }
-footer div img, footer div p {
-    display: inline-block;
+.log_wa_f {
+    grid-area: logwa;
 }
-footer nav, footer div {
-    display: inline-block;
+.nro_wa_f {
+    display: flex;
+    justify-items: end;
+    grid-area: nrowa;
 }
-footer nav {
+.log_fac_f {
+    grid-area: logfac;
+}
+.nom_fac_f {
+    grid-area: nomfac;
+}
+.log_ins_f {
+    grid-area: logins;
+}
+.nom_ins_f {
+    grid-area: nomins;
+}
+.container-fluid {
+    padding-top: 20px;
+}
+.rrss_footer {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-rows: 30% 30% 30%;
+    grid-template-areas: 
+    "logwa nrowa"
+    "logfac nomfac"
+    "logins nomins";
+    
+    /*ustify-items: center;*/
+    align-items: center;
+    row-gap: 15px;
+}
+/*.container-fluid {
+    align-content: center;
+}*/
+/*footer div img, footer div p {
+    display: inline-block;
+}*/
+/*footer nav, footer div {
+    display: inline-block;
+}*/
+/*footer nav {
     position: relative;
     left: 100px;
     bottom: 10px;
-}
-footer div img {
+}*/
+/*footer div img {
     position: relative;
     left: 300px;
     top: 7px;
-}
-footer div p {
+}*/
+/*footer div p {
     position: relative;
     left: 290px;
     bottom: 48px;
-}
+}*/
 .ordcart {
     background-color: rgb(205, 250, 235);
     margin-left: 150px;
