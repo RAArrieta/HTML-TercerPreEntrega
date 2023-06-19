@@ -27,6 +27,11 @@ main section div {
     font-family: 'Sora', sans-serif;
     font-size: 200%;
 }
+.contact_caract {
+    /*background-color: rgb(231, 227, 227);*/
+    font-family: 'Sora', sans-serif;
+    font-size: 200%;
+}
 /*
 .pedidowa {
     position: fixed;
