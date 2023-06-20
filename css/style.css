@@ -7,120 +7,36 @@
 }
 header {
     margin-top: 20px;
-
 }
 .fondo {
     background-image: url("../img/fondopag.png");
-   /* margin-left: 90px;
-    margin-right: 90px;*/
 }
-nav {
-    font-family: 'Sora', sans-serif;
-    font-weight: 800;
-    padding: 10px;
-    background-color: white;
-    margin-bottom: 10px;
-}
-
-main section div {
-    background-color: rgb(231, 227, 227);
-    font-family: 'Sora', sans-serif;
-    font-size: 200%;
-}
-.contact_caract {
-    /*background-color: rgb(231, 227, 227);*/
-    font-family: 'Sora', sans-serif;
-    font-size: 200%;
-}
-/*
 .pedidowa {
     position: fixed;
     bottom: 0;
-    right: 0;
-}*/
+    right: 5px;
+}
 footer {
-    background-color: rgb(231, 227, 227);
+    background-color: white;
     font-family: 'Sora', sans-serif;
     font-weight: bold; 
     font-size: 120%;
 }
-
-    /*
-.ordcart {
-    background-color: rgb(205, 250, 235);
-    margin-left: 150px;
-    margin-right: 150px;
-    padding: 10px;
-    margin-bottom: 10px;
+.nav-mine {
+    
     font-family: 'Sora', sans-serif;
     font-weight: 900;
+    background-color: white;
 }
-.ordcartp1 {
-    position: relative;
-    top: 15px;
-    left: 200px;
-}
-.ordcartp2 {
-    position: relative;
-    bottom: 13px;
-    left: 300px;
-}
-.ordcarte1 {
-    position: relative;
-    left: 250px;
-    bottom: 100px;
-}
-.ordcarte2 {
-    position: relative;
-    left: 420px;
-    top: 13px;
-}
-.ordcarts1 {
-    position: relative;
-    bottom: 150px;
-    left: 300px;
-}
-.ordcartm2 {
-    position: relative;
-    left: 385px;
-    top: 13px;
-}
-.ordcartm1 {
-    position: relative;
-    left: 250px;
-    bottom: 50px;
-}
-section nav ul  {
-    display: inline-block;
-}
-.fondcont {
-    background-color: rgb(233, 233, 233);
-    margin-left: 300px;
-    margin-right: 300px;
+.caract {
+    background-color: white;
     font-family: 'Sora', sans-serif;
-    font-weight: bold; 
+    font-size: 200%;
 }
-.ordcont {
-    display: block;
-}
-body section nav img {
-    position: relative;
-    left: 60px;
-}
-body section nav h2 {
-    position: relative;
-    left: 350px;
-    bottom: 190px;
-}
-.ordimgsoc {
-    margin-left: 50px;
-    margin-right: 50px;
-    padding: 10px;
-}
-.titsoc {
+.social_tit {
     padding: 5px;
-    background-color: rgb(233, 233, 233);
+    background-color: white;
     font-family: 'Sora', sans-serif;
     font-weight: 500; 
     text-align: center;
-}*/
+}
